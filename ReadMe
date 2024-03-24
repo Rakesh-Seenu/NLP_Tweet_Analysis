@@ -1,0 +1,11 @@
+## Objective: 
+Analyse tweets on a subject (economy) to identify -   
+- the top hashtags associated with a target hashtag ('economy')
+
+We'll need to perform a lot of clean up during the process. We will - 
+- Normalize case
+- Tokenize with specific rules
+- Contextual stop word removal
+- Cleanup - removal of URLs, User handles
+
+Finally, we'll plot the top 10 hashtags that occurred along with '#economy' on a horizontal bar chart
