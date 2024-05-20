@@ -1,4 +1,4 @@
-Problem Statement: 
+## Problem Statement: 
 Social media is a gold mine of information. Brands, governments, or anyone  can leverage their business with the help of the information contained. 
 It can be information on the sentiments for a brand, or the themes being spoken about , or the associated trends for a particular hashtag.
 
@@ -6,7 +6,7 @@ In this project we will find other hashtags that occur frequently with our targe
 Analyse tweets on a subject (economy) to identify -   
 - the top hashtags associated with a target hashtag ('economy')
 
-AIM:
+## AIM:
 To perform a clean up :  
 - Normalize case
 - Tokenize with specific rules
