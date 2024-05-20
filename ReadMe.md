@@ -4,7 +4,7 @@ It can be information on the sentiments for a brand, or the themes being spoken 
 
 In this project we will find other hashtags that occur frequently with our target hashtag. This will give us an understanding of which  other topics people are associating this hashtag with.
 Analyse tweets on a subject (economy) to identify -   
-- the top hashtags associated with a target hashtag ('economy')
+- The top hashtags associated with a target hashtag ('economy')
 
 ## AIM:
 To perform a clean up :  
